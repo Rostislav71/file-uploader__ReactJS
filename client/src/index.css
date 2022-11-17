@@ -1,0 +1,19 @@
+body {
+  background-color: #e7ebf0;
+}
+.form{
+  width: 50%;
+}
+.form__routes{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.links{
+  display: flex;
+  flex-direction: column-reverse;
+}
+.routeLink{
+  text-decoration: none;
+  color: gray;
+}
